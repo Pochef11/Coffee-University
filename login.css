@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Anton&family=Patua+One&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@300&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap');
+
+.back{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, rgb(0 0 0 / .5), rgb(0 0 0 / .5)), url(plano2.webp);
+    background-size: cover;
+
+}
+.back-text{
+    color: aliceblue;
+    font-family:Staatliches ;
+    font-size: 500%;
+    text-align: center;
+}
+
+.form-group{
+    font-size: 40%;
+    font-family:PT Sans Caption; 
+
+}

@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Anton&family=Patua+One&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@300&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+.Bloque1 {
+    display: flex;
+    flex-direction: row;  
+}
+.PRE{
+    
+    font-family: Cabin;
+    font-size: 50px;
+    
+}
+.Menu{
+    padding-left: 25%;
+    
+}
+
+.Bloque1 a{
+    text-decoration: none;
+    padding-left: 180px;
+}
+.container-fluid{
+    list-style: none;
+    
+}
+
+li{
+    font-family:Staatliches;
+    background-color: sienna;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
+
+.AUTOR{
+    background-color: aliceblue;
+    text-align: center;
+    font-family:Staatliches;
+}
+.fondito{
+    display: flex;
+    height: 100vh;
+    width: 95vw;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, rgb(0 0 0 / .5), rgb(0 0 0 / .5)), url(señales.jpg);
+    background-size: cover;
+    
+
+}
+.textito{
+    color: aliceblue;
+    font-family: Staatliches;
+    font-size: 500%;
+    text-align: center;
+}
+
+.seccion1{
+    text-align: center;
+}
+.seccion1 p{
+    font-family: Staatliches;
+    color: sienna;
+}
+
+.seccion2{
+    text-align: center;
+}
+.seccion2 p{
+    font-family: Staatliches;
+    color: sienna;
+}
+
+.seccion3{
+    text-align: center;
+}
+.seccion3 p{
+    font-family: Staatliches;
+    color: sienna;
+}
+
+.seccion4{
+    text-align: center;
+}
+.seccion4 p{
+    font-family: Staatliches;
+    color: sienna;
+}
+
+h2{
+    font-family: Staatliches;
+    color: rgb(255, 255, 255);
+    background-color: sienna;
+}
+
+.facebook{
+    font-size: 30px;
+    background-color: rgb(156, 185, 239);
+    text-align: center;
+}
+.facebook a{
+    color: rgb(12, 33, 170);
+    font-size: 50px;
+}
+
+.imsstragram{
+    font-size: 30px;
+    background-color: rgb(207, 237, 248);
+    text-align: center;
+}
+.imsstragram a{
+    color: rgb(203, 13, 101);
+    font-size: 50px;
+}
+
+.youtube{
+    font-size: 30px;
+    background-color: rgb(175, 130, 130);
+    text-align: center;
+}
+.youtube a{
+    color: rgb(105, 19, 19);
+    font-size: 50px;
+}
+.p{
+    font-family:Staatliches;
+}
